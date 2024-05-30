@@ -1,6 +1,6 @@
 {
-  "WorkingDir": "./Basic_Syntax/hello/hello.go",
-  "SourceDir": ["./Basic_Syntax/hello/hello.go"],
+  "WorkingDir": ".",
+  "SourceDir": ["."],
   "SourceExt": [".c", ".cpp", ".go", ".h"],
   "BuildCmd": "go build run hello.go",
   "RunCmd": "./hello",
