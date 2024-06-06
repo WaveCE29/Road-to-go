@@ -1,0 +1,28 @@
+{
+    "to": "cchqkBuHSeKJBr9im7R650:APA91bEZnZBKUbyoY2p6h6kbFn8YVq74p3YmvDbL8ETWZzf3RNgUTuqqGNwBRX6d18-wO3DhwYs4Xc_t0HcxXl4dwKavA4PO_sz0aY7zyuLglAONvEkZTOTvuKt8mOQidDyb5u9MOzeD",
+    "priority": "high",
+    "notification": {
+        "title": "NCX",
+        "body": "รัฐ ชวน ผู้กู้ยืม กยศ.ปรับโครงสร้างหนี้ ผ่อนชำระ 15 ปี เริ่ม 15 ก.พ. 67",
+        "sound": "default",
+        "priority": "high",
+        "sticky": false,
+        "defaultSound": true,
+        "defaultVibrateTimings": true
+    },
+    "data": {
+        "badge": 0,
+        "icon": "icon",
+        "a": "1BF25DEA",
+        "alert": "รัฐ ชวน ผู้กู้ยืม กยศ.ปรับโครงสร้างหนี้ ผ่อนชำระ 15 ปี เริ่ม 15 ก.พ. 67",
+        "aps": {
+            "aps": 0
+        },
+        "message_id": "IQOU0NTCX5T3J4L72KTVOBWZQJW39VZ3",
+        "n": "IQOU0NTCX5T3J4L72KTVOBWZQJW39VZ3",
+        "p": "NT",
+        "sound": "default",
+        "t": "2024-01-31T10:53:44Z",
+        "q": "2024JIQOU0NTCX5T3J4L72KTVOBWZQJW39VZ3"
+    }
+}
